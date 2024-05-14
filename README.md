@@ -1,5 +1,10 @@
 # Computer Scientist
 
+### About Me
+
+I am a student at Grinnell College studying Computer Science and Math. At Grinnell I enjoy playing Baseball for Grinnell and spending my time as the president of Gateway, a Christian organization dedicated to creating a place for students to have honest conversations about their faith, troubles, and growth. I am excited to expand my knowledge of computers and the software they run on to create meaningful tools that impact lives.
+My hobbies include baseball, golf, french horn, hiking, board games, and video games.
+
 ### EDUCATION
 
 #### Grinnell College
