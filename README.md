@@ -76,4 +76,4 @@ My second project under development is a project for fun. This discord bot is an
 
 [NPC Video](https://www.youtube.com/watch?v=ywgol0VjpfE)
 
-![NPC Bot Screenshot](NPCScreenshot.png)
+![NPC Bot Screenshot](/assets/img/NPCScreenshot.png)
