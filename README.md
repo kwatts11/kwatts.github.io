@@ -63,3 +63,17 @@ January 2020 – Present
 [Individual Project App Demo]([https://github.com/kwatts11/CSC324-IndividualProject](https://youtu.be/VbJMVXO_oKQ))
 
 Baseball statistics are well preserved and freely accessible. The majority of baseball fans do not know how to view this data in a meaningful way however. The purpose of this project is to provide meaningful visualizations of how hitting in baseball has changed from 1871 to 2015 at the highest level, Major League Baseball. The project is intended for baseball fans, baseball historians, statisticians (as baseball is a common example topic), and those who are new to the game of baseball. The hope is that these visualizations will allow the reader to learn, discover and/or support knowledge on the game of baseball and its history.
+
+#### Watts Bees App
+
+I am currently under development of an app for Watts Bees to track where they propogate bees. The app uses flutter and firebase in order to communicate among workers and increase their bus factor. There is no working app at this time but below is an example of code.
+
+![Bee App Image](/assets/img/beeApp.png)
+
+#### Custom Discord Bot
+
+My second project under development is a project for fun. This discord bot is an NPC bot made to interupt conversation on a server with fun, unique, and customizable non-player-character lines. My favorite line is "It's the end of the world and people are buying toilet paper. I guess they plan to shit themselves to death?" from the video linked below. There is also a screenshot of the bot in a server. 
+
+[NPC Video](https://www.youtube.com/watch?v=ywgol0VjpfE)
+
+![NPC Bot Screenshot](NPCScreenshot.png)
