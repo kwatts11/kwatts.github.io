@@ -1,5 +1,7 @@
 # Computer Scientist
 
+(Scroll down to learn more)
+
 ### ABOUT ME
 
 I am a student at Grinnell College studying Computer Science and Math. At Grinnell I enjoy playing Baseball for Grinnell and spending my time as the president of Gateway, a Christian organization dedicated to creating a place for students to have honest conversations about their faith, troubles, and growth. I am excited to expand my knowledge of computers and the software they run on to create meaningful tools that impact lives.
@@ -50,7 +52,12 @@ January 2020 – Present
 ### PROJECTS
 
 #### CSC-324 GROUP PROJECT: GCIEL 
-[groupProject](https://github.com/kwatts11/CSC324-GCIEL)
+[GCIEL App](https://synkronizing.shinyapps.io/ShipAssessment/)
+[GCIEL Demo Video](https://youtu.be/UH-14nsi-n8)
 
 #### CSC-324 Individual PROJECT: Run Production in the MLB 
-[individualProject](https://github.com/kwatts11/CSC324-IndividualProject)
+
+[Individual Project App](https://wattsdata.shinyapps.io/baseball-history-r-shiny-app/)
+[Individual Project App Demo]([https://github.com/kwatts11/CSC324-IndividualProject](https://youtu.be/VbJMVXO_oKQ))
+
+Baseball statistics are well preserved and freely accessible. The majority of baseball fans do not know how to view this data in a meaningful way however. The purpose of this project is to provide meaningful visualizations of how hitting in baseball has changed from 1871 to 2015 at the highest level, Major League Baseball. The project is intended for baseball fans, baseball historians, statisticians (as baseball is a common example topic), and those who are new to the game of baseball. The hope is that these visualizations will allow the reader to learn, discover and/or support knowledge on the game of baseball and its history.
