@@ -1,13 +1,7 @@
 title: Kelton Watts
 logo: /assets/img/headshot.jpg
-
-PHONE:
-(425) 287-0242
-
-Email:
-keltonwatts@outlook.com
-
-LinkedIn:
-https://www.linkedin.com/in/kelton-watts/
-
+description: 
+  PHONE: (425) 287-0242
+  Email: keltonwatts@outlook.com
+  LinkedIn: https://www.linkedin.com/in/kelton-watts/"
 theme: jekyll-theme-minimal
