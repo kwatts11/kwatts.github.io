@@ -58,7 +58,7 @@ January 2020 – Present
 
 #### CSC-324 Individual PROJECT: Run Production in the MLB 
 
-[Individual Project App](https://wattsdata.shinyapps.io/baseball-history-r-shiny-app/)
+![Individual Project App Image](/assets/img/individualProjectScreenshot.png)
 
 [Individual Project App Demo]([https://github.com/kwatts11/CSC324-IndividualProject](https://youtu.be/VbJMVXO_oKQ))
 
